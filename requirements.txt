@@ -1,0 +1,9 @@
+numpy==1.26.4
+opencv-python
+mediapipe
+ultralytics
+streamlit
+pillow
+pandas
+plotly
+requests
